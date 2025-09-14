@@ -1,6 +1,9 @@
 services:
   - type: web
-    name: streamlit-app
+    name: pune-house-price-prediction
     env: python
+    plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: streamlit run trial2.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      PYTHON_VERSION: 3.11.9
