@@ -124,4 +124,4 @@ Using a **pre-trained Linear Regression model**, this tool empowers home buyers,
 
 ---
 
-✅ **Open Source** | ✅ **ML-Powered** | ✅ **Streamlit Simplicity**
+
