@@ -109,7 +109,8 @@ Using a **pre-trained Linear Regression model**, this tool empowers home buyers,
 
 👤 **Built by**: [Yash Bhong](https://github.com/bhongyash111-coder)  
 📧 bhongyash111@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-bhong-7a1077370/) | 🐙 [GitHub](https://github.com/bhongyash111-coder)
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-bhong-7a1077370/) | 
+🐙 [GitHub](https://github.com/bhongyash111-coder)
 
 ---
 
